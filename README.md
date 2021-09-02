@@ -1,6 +1,6 @@
 ### Hi there 👋
 - My name is Saba Sakvarelidze, I'm from T'bilisi, Georgia
-- I'm a junior back-end developer
+- I'm a back-end developer
 - 🔭 I’m currently working on GTA V RP Server in my free time
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: sakvarelidze(dot)saba(atsign)gmail(dot)com
