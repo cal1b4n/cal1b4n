@@ -26,11 +26,11 @@
 
 
 ---
-
+<!-- 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=cal1b4n&show_icons=true&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cal1b4n&layout=compact&theme=dark" />
-</div>
+</div> -->
 
 ---
 
