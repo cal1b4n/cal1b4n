@@ -1,8 +1,8 @@
 ### Hi there 👋
 - My name is Saba Sakvarelidze, I'm from T'bilisi, Georgia
-- I'm a back-end developer
-- 🔭 I’m currently working on a startup ( can't say yet :< )
-- 🌱 I’m currently learning Javascript
+- I'm a DevOps Engineer with a background in back-end development
+- 🔭 I’m currently working on a startup
+- 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: sakvarelidze(dot)saba(atsign)gmail(dot)com
 
 ### Tech I use
