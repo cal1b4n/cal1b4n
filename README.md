@@ -2,7 +2,6 @@
 - My name is Saba. I'm from Tbilisi, Georgia
 - I'm a DevOps Engineer with a background in back-end development
 - 🔭 I’m currently working on a startup
-- 📫 How to reach me: sakvarelidze.saba@gmail.com
 
 ### Tech I use
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
